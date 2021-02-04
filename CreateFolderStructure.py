@@ -21,7 +21,7 @@ __status__ = ""
 
 # save the file as input.txt
 
-# execut the following:
+# execute the following:
 #  $ CreateFolderStructure.py input.txt /destination/path
 
 import sys, os
